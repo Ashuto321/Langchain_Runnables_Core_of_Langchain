@@ -1,5 +1,9 @@
 <h1 align="center">LangChain Runnables</h1>
 
+
+https://github.com/user-attachments/assets/1961f9b8-338a-428a-80a2-e8db4f568d62
+
+
 <p align="center">
   Advanced LangChain Runnable Architectures using LCEL (LangChain Expression Language)
 </p>

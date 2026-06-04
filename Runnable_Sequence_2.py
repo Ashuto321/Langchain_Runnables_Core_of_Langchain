@@ -25,3 +25,5 @@ chain = RunnableSequence(prompt1, model, parser, prompt2, model, parser)
 response = chain.invoke({"topic": "programming"})
 
 print(response)
+
+chain.get_graph().print_ascii()
